@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-https://github.com/ndridm2/object_detection_app/assets/object-detection-app.mp4
+ <img width="344" alt="apps" src="">
 
 
